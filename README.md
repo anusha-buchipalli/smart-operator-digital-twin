@@ -60,6 +60,8 @@ Decision
 Recommendation
       ↓
 Operator Action
+
+
 ✨ Current Features
 🔄 Digital Twin machine-state representation
 📊 Synthetic machine telemetry dataset
@@ -71,6 +73,8 @@ Operator Action
 💡 Recommendation engine
 📸 Digital Twin snapshots
 🧪 End-to-end pipeline testing
+
+
 📊 Dataset
 
 The prototype uses 10,000 synthetic telemetry records representing different machine operating conditions.
