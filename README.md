@@ -62,7 +62,7 @@ Recommendation
 Operator Action
 
 
-✨ Current Features
+**✨ Current Features**
 🔄 Digital Twin machine-state representation
 📊 Synthetic machine telemetry dataset
 📈 Historical state tracking
@@ -75,7 +75,7 @@ Operator Action
 🧪 End-to-end pipeline testing
 
 
-📊 Dataset
+**📊 Dataset**
 
 The prototype uses 10,000 synthetic telemetry records representing different machine operating conditions.
 
@@ -157,7 +157,9 @@ This allows the system to move from monitoring data to supporting operator decis
                         ▼
                 Smart Operator
                    Assistant
-🛠️ Technology Stack
+
+                   
+**🛠️ Technology Stack**
 Programming & Data
 Python
 Pandas
@@ -169,7 +171,9 @@ Conda
 Git
 GitHub
 VS Code
-📁 Project Structure
+
+
+**📁 Project Structure**
 construction-digital-twin/
 │
 ├── app.py
@@ -202,9 +206,10 @@ construction-digital-twin/
 │
 ├── .gitignore
 └── README.md
-🚀 Getting Started
-Prerequisites
 
+**🚀 Getting Started
+Prerequisites
+**
 Make sure you have:
 
 Python 3.10+
@@ -227,7 +232,9 @@ python simulator/generate_dataset.py
 python tests/pipeline_test.py
 6. Run the Snapshot Test
 python tests/snapshot_test.py
-🧪 Testing
+
+
+**🧪 Testing**
 
 The project includes tests for the Digital Twin pipeline.
 
@@ -256,7 +263,9 @@ State changes
 Trends
 Decisions
 Recommendations
-🎯 Vision
+
+
+**🎯 Vision**
 
 The long-term goal is to create an intelligent Smart Operator Assistant that acts as a digital companion for construction-machine operators.
 
